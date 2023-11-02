@@ -105,10 +105,10 @@ The bot will always reply to messages based on the following criteria:
 If you have [git](https://git-scm.org) installed, run the following command from the Terminal:
 
 ```bash
-git clone https://github.com/wassengercode/whatsapp-chatbot-demo-tutorial.git
+git clone https://github.com/wassengerhq/whatsapp-chatbot-demo-tutorial.git
 ```
 
-If you don't have `git`, download the files [using this link](https://github.com/wassengercode/whatsapp-chatbot-demo-tutorial/download) and unzip it.
+If you don't have `git`, download the files [using this link](https://github.com/wassengerhq/whatsapp-chatbot-demo-tutorial/download) and unzip it.
 
 ### Configuration
 
